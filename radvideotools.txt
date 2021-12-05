@@ -1,0 +1,12 @@
+======== L:/GOG/Games/Europa Universalis 2/avi/binkplay.exe
+File Version Number             : 3.0.0.0
+Product Version                 : 1.0t
+Directory                       : L:/GOG/Games/Europa Universalis 2/avi
+======== L:/GOG/Games/Mount and Blade/binkplay.exe
+File Version Number             : 3.0.0.0
+Product Version                 : 1.0t
+Directory                       : L:/GOG/Games/Mount and Blade
+======== L:/GOG/Games/WARHAMMER 40K Rites of War/Cine/binkplay.exe
+File Version Number             : 3.0.0.0
+Product Version                 : 1.0t
+Directory                       : L:/GOG/Games/WARHAMMER 40K Rites of War/Cine
