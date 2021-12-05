@@ -1,0 +1,382 @@
+======== L:/1/steamapps/common/DOOM/bink2w64.dll
+File Version Number             : 1.100.10.0
+Product Version                 : 1.100k
+Directory                       : L:/1/steamapps/common/DOOM
+======== L:/1/steamapps/common/South Park - The Stick of Truth/bink2w64.dll
+File Version Number             : 1.999.2.0
+Product Version                 : 1.992a
+Directory                       : L:/1/steamapps/common/South Park - The Stick of Truth
+======== L:/1/steamapps/common/Wolfenstein The Old Blood/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994m
+Directory                       : L:/1/steamapps/common/Wolfenstein The Old Blood
+======== L:/Bethesda/Bethesda.net Launcher/games/Doom Eternal/bink2w64.dll
+File Version Number             : 2020.11.1.0
+Product Version                 : 2020.11
+Directory                       : L:/Bethesda/Bethesda.net Launcher/games/Doom Eternal
+======== L:/Bethesda/Bethesda.net Launcher/games/Fallout76/bink2w64.dll
+File Version Number             : 2.7.9.0
+Product Version                 : 2.7i/1.300i
+Directory                       : L:/Bethesda/Bethesda.net Launcher/games/Fallout76
+======== L:/Bethesda/Bethesda.net Launcher/games/quakechampions/client/bin/pc/bink2w64.dll
+File Version Number             : 2.5.18.0
+Product Version                 : 2.5s/1.100s
+Directory                       : L:/Bethesda/Bethesda.net Launcher/games/quakechampions/client/bin/pc
+======== L:/Bethesda/Bethesda.net Launcher/games/quakechampionspts/client/bin/pc/bink2w64.dll
+File Version Number             : 2.5.18.0
+Product Version                 : 2.5s/1.100s
+Directory                       : L:/Bethesda/Bethesda.net Launcher/games/quakechampionspts/client/bin/pc
+======== L:/Bethesda/Bethesda.net Launcher/games/RAGE 2/bink2w64.dll
+File Version Number             : 2.7.13.0
+Product Version                 : 2.7m/1.300m
+Directory                       : L:/Bethesda/Bethesda.net Launcher/games/RAGE 2
+======== L:/Blizzard/Games/Call of Duty Modern Warfare/bink2w64.dll
+File Version Number             : 2.7.15.0
+Product Version                 : 2.7o/1.300o
+Directory                       : L:/Blizzard/Games/Call of Duty Modern Warfare
+======== L:/Epic/Epic Games/AssassinsCreedSyndicate/bink2w64.dll
+File Version Number             : 1.999.1.0
+Product Version                 : 1.995b
+Directory                       : L:/Epic/Epic Games/AssassinsCreedSyndicate
+======== L:/Epic/Epic Games/Control/bink2w64.dll
+File Version Number             : 2.7.9.0
+Product Version                 : 2.7i/1.300i
+Directory                       : L:/Epic/Epic Games/Control
+======= L:/Epic/Epic Games/ForHonor/bink2w64.dll
+File Version Number             : 2.5.16.0
+Product Version                 : 2.5q/1.100q
+Directory                       : L:/Epic/Epic Games/ForHonor
+
+
+======== L:/Epic/Epic Games/GalacticCivilizations3/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994h
+Directory                       : L:/Epic/Epic Games/GalacticCivilizations3
+======== L:/Epic/Epic Games/GTAV/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994a
+Directory                       : L:/Epic/Epic Games/GTAV
+======== L:/Epic/Epic Games/JustCause4/bink2w64.dll
+File Version Number             : 2.7.8.0
+Product Version                 : 2.7h/1.300h
+Directory                       : L:/Epic/Epic Games/JustCause4
+======== L:/Epic/Epic Games/KillingFloor2/Binaries/Win64/bink2w64.dll
+File Version Number             : 1.999.2.0
+Product Version                 : 1.990c
+Directory                       : L:/Epic/Epic Games/KillingFloor2/Binaries/Win64
+======== L:/Epic/Epic Games/MudRunner/bink2w64.dll
+File Version Number             : 2.5.18.0
+Product Version                 : 2.5s/1.100s
+Directory                       : L:/Epic/Epic Games/MudRunner
+======== L:/Epic/Epic Games/Rage2/bink2w64.dll
+File Version Number             : 2.7.13.0
+Product Version                 : 2.7m/1.300m
+Directory                       : L:/Epic/Epic Games/Rage2
+======== L:/Epic/Epic Games/RailwayEmpire/bink2w64.dll
+File Version Number             : 2.6.6.0
+Product Version                 : 2.6g/1.200g
+Directory                       : L:/Epic/Epic Games/RailwayEmpire
+======== L:/Epic/Epic Games/RiseoftheTombRaider/bink2w64.dll
+File Version Number             : 1.999.5.0
+Product Version                 : 1.995f
+Directory                       : L:/Epic/Epic Games/RiseoftheTombRaider
+======== L:/Epic/Epic Games/RS2V/Binaries/Win64/bink2w64.dll
+File Version Number             : 1.999.9.0
+Product Version                 : 1.995j
+Directory                       : L:/Epic/Epic Games/RS2V/Binaries/Win64
+======== L:/Epic/Epic Games/SidMeiersCivilizationVI/Base/Binaries/Win64EOS/bink2w64.dll
+File Version Number             : 1.999.1.0
+Product Version                 : 1.995b
+Directory                       : L:/Epic/Epic Games/SidMeiersCivilizationVI/Base/Binaries/Win64EOS
+======== L:/Epic/Epic Games/Steep/bink2w64.dll
+File Version Number             : 1.999.2.0
+Product Version                 : 1.995c
+Directory                       : L:/Epic/Epic Games/Steep
+======== L:/Epic/Epic Games/StubbsTheZombie/bink2w64.dll
+File Version Number             : 2020.6.2.0
+Product Version                 : 2020.06.2
+Directory                       : L:/Epic/Epic Games/StubbsTheZombie
+======== L:/Epic/Epic Games/TheWitness/bink2w64.dll
+File Version Number             : 2.5.19.0
+Product Version                 : 2.5t/1.100t
+Directory                       : L:/Epic/Epic Games/TheWitness
+======== L:/Epic/Epic Games/WatchDogs/bin/bink2w64.dll
+File Version Number             : 1.999.2.0
+Product Version                 : 1.992a
+Directory                       : L:/Epic/Epic Games/WatchDogs/bin
+======== L:/GOG/Games/BATTLETECH/BattleTech_Data/Plugins/bink2w64.dll
+File Version Number             : 2.7.14.0
+Product Version                 : 2.7n/1.300n
+Directory                       : L:/GOG/Games/BATTLETECH/BattleTech_Data/Plugins
+======== L:/GOG/Games/Control/bink2w64.dll
+File Version Number             : 2.7.9.0
+Product Version                 : 2.7i/1.300i
+Directory                       : L:/GOG/Games/Control
+======== L:/GOG/Games/Cyberpunk 2077/bin/x64/bink2w64.dll
+File Version Number             : 2020.9.1.0
+Product Version                 : 2020.09
+Directory                       : L:/GOG/Games/Cyberpunk 2077/bin/x64
+======== L:/GOG/Games/Deadlight - Director's Cut/Binaries/Win64/bink2w64.dll
+File Version Number             : 1.100.13.0
+Product Version                 : 1.100n
+Directory                       : L:/GOG/Games/Deadlight - Director's Cut/Binaries/Win64
+======== L:/Origin/Games/Origin Games/Apex/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994m
+Directory                       : L:/Origin/Games/Origin Games/Apex
+======== L:/Star Citizen/Game/StarCitizen/LIVE/Bin64/bink2w64.dll
+File Version Number             : 2.6.2.1
+Product Version                 : 2.6c/1.200c
+Directory                       : L:/Star Citizen/Game/StarCitizen/LIVE/Bin64
+======== L:/Star Citizen/Old/StarCitizen/LIVE/Bin64/bink2w64.dll
+File Version Number             : 2.6.2.1
+Product Version                 : 2.6c/1.200c
+Directory                       : L:/Star Citizen/Old/StarCitizen/LIVE/Bin64
+======== L:/Steam/Games/steamapps/common/Gears5/Engine/Binaries/ThirdParty/Bink/Win64/bink2w64.dll
+File Version Number             : 2.7.8.0
+Product Version                 : 2.7h/1.300h
+Directory                       : L:/Steam/Games/steamapps/common/Gears5/Engine/Binaries/ThirdParty/Bink/Win64
+======== L:/Steam/Games/steamapps/common/Zenimax Online/The Elder Scrolls Online/game/client/bink2w64.dll
+File Version Number             : 1.100.10.0
+Product Version                 : 1.100k
+Directory                       : L:/Steam/Games/steamapps/common/Zenimax Online/The Elder Scrolls Online/game/client
+======== L:/Steam/Games/steamapps/common/The Divinty Engine Enhanced Edition/bink2w64.dll
+File Version Number             : 1.999.5.0
+Product Version                 : 1.995f
+Directory                       : L:/Steam/Games/steamapps/common/The Divinty Engine Enhanced Edition
+======== L:/Steam/Games/steamapps/common/Shadow of the Tomb Raider/bink2w64.dll
+File Version Number             : 2.7.2.0
+Product Version                 : 2.7c/1.300c
+Directory                       : L:/Steam/Games/steamapps/common/Shadow of the Tomb Raider
+======== L:/Steam/Games/steamapps/common/Black Desert Online/bin64/bink2w64.dll
+File Version Number             : 2.7.2.0
+Product Version                 : 2.7c/1.300c
+Directory                       : L:/Steam/Games/steamapps/common/Black Desert Online/bin64
+======== L:/Steam/Games/steamapps/common/Assassins Creed Odyssey/bink2w64.dll
+File Version Number             : 2.7.0.0
+Product Version                 : 2.7a/1.300a
+Directory                       : L:/Steam/Games/steamapps/common/Assassins Creed Odyssey
+======== L:/Steam/Games/steamapps/common/Divinity Original Sin Enhanced Edition/Shipping/bink2w64.dll
+File Version Number             : 1.999.5.0
+Product Version                 : 1.995f
+Directory                       : L:/Steam/Games/steamapps/common/Divinity Original Sin Enhanced Edition/Shipping
+======== L:/Steam/Games/steamapps/common/TheEvilWithin/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994f
+Directory                       : L:/Steam/Games/steamapps/common/TheEvilWithin
+======== L:/Steam/Games/steamapps/common/Titanfall2/bin/x64_retail/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994m
+Directory                       : L:/Steam/Games/steamapps/common/Titanfall2/bin/x64_retail
+======== L:/Steam/Games/steamapps/common/Rise of the Tomb Raider/bink2w64.dll
+File Version Number             : 1.999.5.0
+Product Version                 : 1.995f
+Directory                       : L:/Steam/Games/steamapps/common/Rise of the Tomb Raider
+======== L:/Steam/Games/steamapps/common/Deus Ex Mankind Divided/retail/bink2w64.dll
+File Version Number             : 2.5.16.0
+Product Version                 : 2.5q/1.100q
+Directory                       : L:/Steam/Games/steamapps/common/Deus Ex Mankind Divided/retail
+======== L:/Steam/Games/steamapps/common/Grand Theft Auto V/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994a
+Directory                       : L:/Steam/Games/steamapps/common/Grand Theft Auto V
+======== L:/Steam/Games/steamapps/common/Skyrim Special Edition/bink2w64.dll
+File Version Number             : 2.7.19.0
+Product Version                 : 2.7s/1.300s
+Directory                       : L:/Steam/Games/steamapps/common/Skyrim Special Edition
+======== L:/Steam/Games/steamapps/common/Far Cry Primal/bin/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994e
+Directory                       : L:/Steam/Games/steamapps/common/Far Cry Primal/bin
+======== L:/Steam/Games/steamapps/common/Death Stranding/bink2w64.dll
+File Version Number             : 2.7.6.0
+Product Version                 : 2.7f/1.300f
+Directory                       : L:/Steam/Games/steamapps/common/Death Stranding
+======== L:/Steam/Games/steamapps/common/Far Cry 4/bin/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994e
+Directory                       : L:/Steam/Games/steamapps/common/Far Cry 4/bin
+======== L:/Steam/Games/steamapps/common/XCOM 2/Binaries/Win64/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994d
+Directory                       : L:/Steam/Games/steamapps/common/XCOM 2/Binaries/Win64
+======== L:/Steam/Games/steamapps/common/Wolfenstein.II.The.New.Colossus/bink2w64.dll
+File Version Number             : 2.7.0.0
+Product Version                 : 2.7a/1.300a
+Directory                       : L:/Steam/Games/steamapps/common/Wolfenstein.II.The.New.Colossus
+======== L:/Steam/Games/steamapps/common/Horizon Zero Dawn/Tools/bin/bink2w64.dll
+File Version Number             : 2.6.3.1
+Product Version                 : 2.6d/1.200d
+Directory                       : L:/Steam/Games/steamapps/common/Horizon Zero Dawn/Tools/bin
+======== L:/Steam/Games/steamapps/common/Dying Light Developer Tools/bink2w64.dll
+File Version Number             : 1.999.1.0
+Product Version                 : 1.995b
+Directory                       : L:/Steam/Games/steamapps/common/Dying Light Developer Tools
+======== L:/Steam/Games/steamapps/common/Red Dead Redemption 2/bink2w64.dll
+File Version Number             : 2.7.3.0
+Product Version                 : 2.7d/1.300d
+Directory                       : L:/Steam/Games/steamapps/common/Red Dead Redemption 2
+======== L:/Steam/Games/steamapps/common/DOOM/bink2w64.dll
+File Version Number             : 1.100.10.0
+Product Version                 : 1.100k
+Directory                       : L:/Steam/Games/steamapps/common/DOOM
+======== L:/Steam/Games/steamapps/common/Jedi Fallen Order/Engine/Binaries/ThirdParty/Bink/bink2w64.dll
+File Version Number             : 2.7.15.0
+Product Version                 : 2.7o/1.300o
+Directory                       : L:/Steam/Games/steamapps/common/Jedi Fallen Order/Engine/Binaries/ThirdParty/Bink
+======== L:/Steam/Games/steamapps/common/Dying Light Bad Blood/bink2w64.dll
+File Version Number             : 1.999.1.0
+Product Version                 : 1.995b
+Directory                       : L:/Steam/Games/steamapps/common/Dying Light Bad Blood
+======== L:/Steam/Games/steamapps/common/Just Cause 3/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994d
+Directory                       : L:/Steam/Games/steamapps/common/Just Cause 3
+======== L:/Steam/Games/steamapps/common/Dishonored2/bink2w64.dll
+File Version Number             : 2.5.18.0
+Product Version                 : 2.5s/1.100s
+Directory                       : L:/Steam/Games/steamapps/common/Dishonored2
+======== L:/Steam/Games/steamapps/common/quakechampions/client/bin/pc/bink2w64.dll
+File Version Number             : 2.5.18.0
+Product Version                 : 2.5s/1.100s
+Directory                       : L:/Steam/Games/steamapps/common/quakechampions/client/bin/pc
+======== L:/Steam/Games/steamapps/common/Fallout 4/bink2w64.dll
+File Version Number             : 1.999.2.0
+Product Version                 : 1.992e
+Directory                       : L:/Steam/Games/steamapps/common/Fallout 4
+======== L:/Steam/Games/steamapps/common/XCOM 2 SDK/Binaries/Win64/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994d
+Directory                       : L:/Steam/Games/steamapps/common/XCOM 2 SDK/Binaries/Win64
+======== L:/Steam/Games/steamapps/common/Dishonored_DeathOfTheOutsider/bink2w64.dll
+File Version Number             : 2.5.18.0
+Product Version                 : 2.5s/1.100s
+Directory                       : L:/Steam/Games/steamapps/common/Dishonored_DeathOfTheOutsider
+======== L:/Steam/Games/steamapps/common/FarCry5/bin/bink2w64.dll
+File Version Number             : 2.5.17.0
+Product Version                 : 2.5r/1.100r
+Directory                       : L:/Steam/Games/steamapps/common/FarCry5/bin
+======== L:/Steam/Games/steamapps/common/Tales from the Borderlands/bink2w64.dll
+File Version Number             : 2.7.19.0
+Product Version                 : 2.7s/1.300s
+Directory                       : L:/Steam/Games/steamapps/common/Tales from the Borderlands
+======== L:/Steam/Games/steamapps/common/Wolfenstein.The.New.Order/bink2w64.dll
+File Version Number             : 1.999.3.0
+Product Version                 : 1.993d
+Directory                       : L:/Steam/Games/steamapps/common/Wolfenstein.The.New.Order
+======== L:/Steam/Games/steamapps/common/prey/Binaries/Danielle/x64/Release/bink2w64.dll
+File Version Number             : 2.7.4.0
+Product Version                 : 2.7e/1.300e
+Directory                       : L:/Steam/Games/steamapps/common/prey/Binaries/Danielle/x64/Release
+======== L:/Steam/Games/steamapps/common/prey/Whiplash/Binaries/Danielle/x64/Release/bink2w64.dll
+File Version Number             : 2.7.4.0
+Product Version                 : 2.7e/1.300e
+Directory                       : L:/Steam/Games/steamapps/common/prey/Whiplash/Binaries/Danielle/x64/Release
+======== L:/Steam/Games/steamapps/common/Dying Light/bink2w64.dll
+File Version Number             : 1.999.1.0
+Product Version                 : 1.995b
+Directory                       : L:/Steam/Games/steamapps/common/Dying Light
+======== L:/Steam/Games/steamapps/common/Dying Light/DevTools/bink2w64.dll
+File Version Number             : 1.999.1.0
+Product Version                 : 1.995b
+Directory                       : L:/Steam/Games/steamapps/common/Dying Light/DevTools
+======== L:/Steam/Games/steamapps/common/Mad Max/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994d
+Directory                       : L:/Steam/Games/steamapps/common/Mad Max
+======== L:/Steam/Games/steamapps/common/ShadowOfMordor/x64/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994c
+Directory                       : L:/Steam/Games/steamapps/common/ShadowOfMordor/x64
+======== L:/Steam/Games/steamapps/common/Halo The Master Chief Collection/MCC/Binaries/Win64/bink2w64.dll
+File Version Number             : 2.7.14.0
+Product Version                 : 2.7n/1.300n
+Directory                       : L:/Steam/Games/steamapps/common/Halo The Master Chief Collection/MCC/Binaries/Win64
+======== L:/Steam/Games/steamapps/common/DIRT 5/bink2w64.dll
+File Version Number             : 2020.7.1.0
+Product Version                 : 2020.07
+Directory                       : L:/Steam/Games/steamapps/common/DIRT 5
+======== L:/Steam/Games/steamapps/common/Sid Meier's Civilization VI/Base/Binaries/Win64Steam/bink2w64.dll
+File Version Number             : 1.999.1.0
+Product Version                 : 1.995b
+Directory                       : L:/Steam/Games/steamapps/common/Sid Meier's Civilization VI/Base/Binaries/Win64Steam
+======== L:/Steam/Games/steamapps/common/South Park - The Stick of Truth/bink2w64.dll
+File Version Number             : 1.999.2.0
+Product Version                 : 1.992a
+Directory                       : L:/Steam/Games/steamapps/common/South Park - The Stick of Truth
+======== L:/Steam/Games/steamapps/common/BorderlandsGOTYEnhanced/Binaries/Win64/bink2w64.dll
+File Version Number             : 2.7.6.0
+Product Version                 : 2.7f/1.300f
+Directory                       : L:/Steam/Games/steamapps/common/BorderlandsGOTYEnhanced/Binaries/Win64
+======== L:/Steam/Games/steamapps/common/H3EK/bin/x64/bink2w64.dll
+File Version Number             : 2.7.19.0
+Product Version                 : 2.7s/1.300s
+Directory                       : L:/Steam/Games/steamapps/common/H3EK/bin/x64
+======== L:/Steam/Games/steamapps/common/Wolfenstein The Old Blood/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994m
+Directory                       : L:/Steam/Games/steamapps/common/Wolfenstein The Old Blood
+======== L:/Twitch/Games/Games Library/bb3a962e-180e-47c2-b2ea-9790fd7d521f/Binaries/Win64/bink2w64.dll
+File Version Number             : 1.100.13.0
+Product Version                 : 1.100n
+Directory                       : L:/Twitch/Games/Games Library/bb3a962e-180e-47c2-b2ea-9790fd7d521f/Binaries/Win64
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Anno 1701 - History Edition/bink2w64.dll
+File Version Number             : 2.7.9.0
+Product Version                 : 2.7i/1.300i
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Anno 1701 - History Edition
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed Odyssey/bink2w64.dll
+File Version Number             : 2.7.0.0
+Product Version                 : 2.7a/1.300a
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed Odyssey
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed Syndicate/bink2w64.dll
+File Version Number             : 1.999.1.0
+Product Version                 : 1.995b
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed Syndicate
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed Unity/bink2w64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994c
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed Unity
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Discovery Tour Ancient Greece by Ubisoft/bink2w64.dll
+File Version Number             : 2.7.0.0
+Product Version                 : 2.7a/1.300a
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Discovery Tour Ancient Greece by Ubisoft
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Discovery Tour by Assassin's Creed Ancient Egypt/bink2w64.dll
+File Version Number             : 2.7.0.0
+Product Version                 : 2.7a/1.300a
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Discovery Tour by Assassin's Creed Ancient Egypt
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/ForHonor/bink2w64.dll
+File Version Number             : 2.5.16.0
+Product Version                 : 2.5q/1.100q
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/ForHonor
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Starlink - Battle for Atlas/bink2w64.dll
+File Version Number             : 1.999.9.0
+Product Version                 : 1.995j
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Starlink - Battle for Atlas
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Steep/bink2w64.dll
+File Version Number             : 1.999.2.0
+Product Version                 : 1.995c
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Steep
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Tom Clancy's The Division/bink2w64.dll
+File Version Number             : 1.999.9.0
+Product Version                 : 1.995j
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Tom Clancy's The Division
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Trials Rising/datapack/bink2w64.dll
+File Version Number             : 2.7.3.0
+Product Version                 : 2.7d/1.300d
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Trials Rising/datapack
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Watch Dogs Legion/bin/bink2w64.dll
+File Version Number             : 2.7.15.0
+Product Version                 : 2.7o/1.300o
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Watch Dogs Legion/bin
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Watch_Dogs/bin/bink2w64.dll
+File Version Number             : 1.999.2.0
+Product Version                 : 1.992a
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Watch_Dogs/bin
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/WATCH_DOGS2/bin/bink2w64.dll
+File Version Number             : 2.5.17.0
+Product Version                 : 2.5r/1.100r
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/WATCH_DOGS2/bin
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/WATCH_DOGS2/bin_plus/bink2w64.dll
+File Version Number             : 2.5.17.0
+Product Version                 : 2.5r/1.100r
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/WATCH_DOGS2/bin_plus
