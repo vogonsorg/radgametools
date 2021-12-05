@@ -1,7 +1,8 @@
 # radgametools
 Bink, Smacker, miles, etc binaries. No Source Code
 
-USE EXIFTOOL TO GATHER VERSION INFORMATGION
+USE EXIFTOOL TO GATHER VERSION INFORMATION
+
 exiftool -r -FileVersionNumber -ProductVersion -Directory -if "$Filename eq 'binkw32'" L:\ > binkw32.txt
 
 DEVELOPMENT HISTORY
