@@ -1,0 +1,88 @@
+Epic/Epic Games/APlagueTale/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99n
+Directory                       : Epic/Epic Games/APlagueTale
+Epic/Epic Games/Darksiders2/binkw64.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994i
+Directory                       : Epic/Epic Games/Darksiders2
+Epic/Epic Games/RUINER/Ruiner/Content/Bink/binkw64.dll
+File Version Number             : 1.300.0.0
+Product Version                 : 1.300a
+Directory                       : Epic/Epic Games/RUINER/Ruiner/Content/Bink
+Epic/Epic Games/SaintsRowTheThird/binkw64.dll
+File Version Number             : 1.300.8.0
+Product Version                 : 1.300h
+Directory                       : Epic/Epic Games/SaintsRowTheThird
+Epic/Epic Games/WorldWarZ/en_us/client/bin/pc/binkw64.dll
+File Version Number             : 1.300.9.0
+Product Version                 : 1.300i
+Directory                       : Epic/Epic Games/WorldWarZ/en_us/client/bin/pc
+GOG/Games/HellbladeSenuasSacrifice/HellbladeGame/Content/Bink/binkw64.dll
+File Version Number             : 1.200.7.0
+Product Version                 : 1.200h
+Directory                       : GOG/Games/HellbladeSenuasSacrifice/HellbladeGame/Content/Bink
+GOG/Games/HellbladeSenuasSacrificeVR/HellbladeGame/Content/Bink/binkw64.dll
+File Version Number             : 1.200.7.0
+Product Version                 : 1.200h
+Directory                       : GOG/Games/HellbladeSenuasSacrificeVR/HellbladeGame/Content/Bink
+GOG/Games/Rise of the Triad (2013)/Binaries/Win64/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99v
+Directory                       : GOG/Games/Rise of the Triad (2013)/Binaries/Win64
+GOG/Games/Shadow Warrior 2013 dx11/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : GOG/Games/Shadow Warrior 2013 dx11
+Steam/Games/steamapps/common/Underlords/game/bin/win64/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99b
+Directory                       : Steam/Games/steamapps/common/Underlords/game/bin/win64
+Steam/Games/steamapps/common/Skyrim Special Edition/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : Steam/Games/steamapps/common/Skyrim Special Edition
+Steam/Games/steamapps/common/Shadow Warrior/dx11/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : Steam/Games/steamapps/common/Shadow Warrior/dx11
+Steam/Games/steamapps/common/rage/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99d
+Directory                       : Steam/Games/steamapps/common/rage
+Steam/Games/steamapps/common/rage tool kit/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99d
+Directory                       : Steam/Games/steamapps/common/rage tool kit
+Steam/Games/steamapps/common/chivalrymedievalwarfare/Binaries/Win64/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : Steam/Games/steamapps/common/chivalrymedievalwarfare/Binaries/Win64
+Steam/Games/steamapps/common/chivalrymedievalwarfare/CDW/Binaries/Win64/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : Steam/Games/steamapps/common/chivalrymedievalwarfare/CDW/Binaries/Win64
+Steam/Games/steamapps/common/dungeon defenders/Binaries/Win64/binkw64.dll
+File Version Number             : 1.9.16.0
+Product Version                 : 1.9p
+Directory                       : Steam/Games/steamapps/common/dungeon defenders/Binaries/Win64
+Steam/Games/steamapps/common/chivalry_ded_server/Binaries/Win64/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : Steam/Games/steamapps/common/chivalry_ded_server/Binaries/Win64
+Steam/Games/steamapps/common/The Lab/RobotRepair/bin/win64/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99b
+Directory                       : Steam/Games/steamapps/common/The Lab/RobotRepair/bin/win64
+Steam/Games/steamapps/common/Artifact/game/bin/win64/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99b
+Directory                       : Steam/Games/steamapps/common/Artifact/game/bin/win64
+Steam/Games/steamapps/common/DARK SOULS REMASTERED/binkw64.dll
+File Version Number             : 1.200.5.0
+Product Version                 : 1.200f
+Directory                       : Steam/Games/steamapps/common/DARK SOULS REMASTERED
+Steam/Games/steamapps/common/chivalry_dw_ded_server/Binaries/Win64/binkw64.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : Steam/Games/steamapps/common/chivalry_dw_ded_server/Binaries/Win64
