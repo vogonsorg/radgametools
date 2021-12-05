@@ -6,3 +6,126 @@ http://www.radgametools.com/bnkhist.htm
 http://www.radgametools.com/smkhist.htm
 
 http://www.radgametools.com/msshist.htm
+
+BINK2W32
+
+steamapps/common/Saints Row Gat out of Hell/bink2w32.dll
+File Version Number             : 2.4.6.0
+Product Version                 : 2.4g/1.994g
+Directory                       : steamapps/common/Saints Row Gat out of Hell
+1/steamapps/common/South Park - The Stick of Truth/bink2w32.dll
+File Version Number             : 2.2.0.0
+Product Version                 : 2.2a/1.992a
+Directory                       : steamapps/common/South Park - The Stick of Truth
+Epic/Epic Games/Borderlands2/Binaries/Win32/bink2w32.dll
+File Version Number             : 2.7.6.0
+Product Version                 : 2.7f/1.300f
+Directory                       : Epic/Epic Games/Borderlands2/Binaries/Win32
+Epic/Epic Games/BorderlandsThePreSequel/Binaries/Win32/bink2w32.dll
+File Version Number             : 2.7.6.0
+Product Version                 : 2.7f/1.300f
+Directory                       : Epic/Epic Games/BorderlandsThePreSequel/Binaries/Win32
+Epic/Epic Games/Horace/Build/Horace_Data/Plugins/bink2w32.dll
+File Version Number             : 2.7.8.0
+Product Version                 : 2.7h/1.300h
+Directory                       : Epic/Epic Games/Horace/Build/Horace_Data/Plugins
+Epic/Epic Games/OddworldNewNTasty/bink2w32.dll
+File Version Number             : 2.4.7.0
+Product Version                 : 2.4h/1.994h
+Directory                       : Epic/Epic Games/OddworldNewNTasty
+Epic/Epic Games/TheWitness/bink2w32.dll
+File Version Number             : 2.5.19.0
+Product Version                 : 2.5t/1.100t
+Directory                       : Epic/Epic Games/TheWitness
+GOG/Games/Saints Row - Gat Out of Hell/bink2w32.dll
+File Version Number             : 2.4.6.0
+Product Version                 : 2.4g/1.994g
+Directory                       : GOG/Games/Saints Row - Gat Out of Hell
+GOG/Games/Tesla Effect - A Tex Murphy Adventure/bink2w32.dll
+File Version Number             : 2.3.3.0
+Product Version                 : 2.3d/1.993d
+Directory                       : GOG/Games/Tesla Effect - A Tex Murphy Adventure
+GOG/Old/Tesla Effect A Tex Murphy Adventure/Full/GOG/Extracted/Tesla Effect - A Tex Murphy Adventure/bink2w32.dll
+File Version Number             : 2.3.3.0
+Product Version                 : 2.3d/1.993d
+Directory                       : GOG/Old/Tesla Effect A Tex Murphy Adventure/Full/GOG/Extracted/Tesla Effect - A Tex Murphy Adventure
+Steam/Games/steamapps/common/Saints Row Gat out of Hell/bink2w32.dll
+File Version Number             : 2.4.6.0
+Product Version                 : 2.4g/1.994g
+Directory                       : Steam/Games/steamapps/common/Saints Row Gat out of Hell
+Steam/Games/steamapps/common/DiRT Rally/bink2w32.dll
+File Version Number             : 2.1.2.0
+Product Version                 : 2.1c/1.990c
+Directory                       : Steam/Games/steamapps/common/DiRT Rally
+Steam/Games/steamapps/common/XCom-Enemy-Unknown/XEW/Binaries/Win32/bink2w32.dll
+File Version Number             : 2.1.2.0
+Product Version                 : 2.1c/1.990c
+Directory                       : Steam/Games/steamapps/common/XCom-Enemy-Unknown/XEW/Binaries/Win32
+Steam/Games/steamapps/common/Black Desert Online/bin/bink2w32.dll
+File Version Number             : 2.7.2.0
+Product Version                 : 2.7c/1.300c
+Directory                       : Steam/Games/steamapps/common/Black Desert Online/bin
+Steam/Games/steamapps/common/Duke Nukem 3D Twentieth Anniversary World Tour/bink2w32.dll
+File Version Number             : 2.5.13.0
+Product Version                 : 2.5n/1.100n
+Directory                       : Steam/Games/steamapps/common/Duke Nukem 3D Twentieth Anniversary World Tour
+Steam/Games/steamapps/common/Life Is Strange/Binaries/Win32/bink2w32.dll
+File Version Number             : 2.4.8.0
+Product Version                 : 2.4k/1.994k
+Directory                       : Steam/Games/steamapps/common/Life Is Strange/Binaries/Win32
+Steam/Games/steamapps/common/InjusticeGodsAmongUs_UltimateEdition/DiscContentPCG/bink2w32.dll
+File Version Number             : 2.2.3.0
+Product Version                 : 2.2d/1.992d
+Directory                       : Steam/Games/steamapps/common/InjusticeGodsAmongUs_UltimateEdition/DiscContentPCG
+Steam/Games/steamapps/common/XCOM 2/Binaries/Win32/bink2w32.dll
+File Version Number             : 2.4.3.0
+Product Version                 : 2.4d/1.994d
+Directory                       : Steam/Games/steamapps/common/XCOM 2/Binaries/Win32
+Steam/Games/steamapps/common/The Mighty Quest For Epic Loot/GameData/Bin/bink2w32.dll
+File Version Number             : 2.4.12.0
+Product Version                 : 2.4m/1.994m
+Directory                       : Steam/Games/steamapps/common/The Mighty Quest For Epic Loot/GameData/Bin
+Steam/Games/steamapps/common/BorderlandsPreSequel/Binaries/Win32/bink2w32.dll
+File Version Number             : 2.7.6.0
+Product Version                 : 2.7f/1.300f
+Directory                       : Steam/Games/steamapps/common/BorderlandsPreSequel/Binaries/Win32
+Steam/Games/steamapps/common/Batman Arkham Origins Blackgate HD/Bin/bink2w32.dll
+File Version Number             : 2.3.3.0
+Product Version                 : 2.3d/1.993d
+Directory                       : Steam/Games/steamapps/common/Batman Arkham Origins Blackgate HD/Bin
+Steam/Games/steamapps/common/Borderlands 2/Binaries/Win32/bink2w32.dll
+File Version Number             : 2.7.6.0
+Product Version                 : 2.7f/1.300f
+Directory                       : Steam/Games/steamapps/common/Borderlands 2/Binaries/Win32
+Steam/Games/steamapps/common/XCOM 2 SDK/Binaries/Win32/bink2w32.dll
+File Version Number             : 2.4.3.0
+Product Version                 : 2.4d/1.994d
+Directory                       : Steam/Games/steamapps/common/XCOM 2 SDK/Binaries/Win32
+Steam/Games/steamapps/common/BioShock 2 Remastered/Build/Final/bink2w32.dll
+File Version Number             : 2.5.1.0
+Product Version                 : 2.5b/1.995b
+Directory                       : Steam/Games/steamapps/common/BioShock 2 Remastered/Build/Final
+Steam/Games/steamapps/common/BioShock Remastered/Build/Final/bink2w32.dll
+File Version Number             : 2.5.8.0
+Product Version                 : 2.5i/1.995i
+Directory                       : Steam/Games/steamapps/common/BioShock Remastered/Build/Final
+Steam/Games/steamapps/common/South Park - The Stick of Truth/bink2w32.dll
+File Version Number             : 2.2.0.0
+Product Version                 : 2.2a/1.992a
+Directory                       : Steam/Games/steamapps/common/South Park - The Stick of Truth
+Steam/Games/steamapps/common/Lara Croft and the Temple of Osiris/bink2w32.dll
+File Version Number             : 2.4.1.0
+Product Version                 : 2.4b/1.994b
+Directory                       : Steam/Games/steamapps/common/Lara Croft and the Temple of Osiris
+Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed IV Black Flag/bink2w32.dll
+File Version Number             : 2.2.2.0
+Product Version                 : 2.2c/1.992c
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed IV Black Flag
+Ubisoft/Games/Ubisoft Game Launcher/games/Splinter Cell Blacklist/src/SYSTEM/bink2w32.dll
+File Version Number             : 2.2.0.0
+Product Version                 : 2.2a/1.992a
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Splinter Cell Blacklist/src/SYSTEM
+Ubisoft/Games/Ubisoft Game Launcher/games/Trials Rising/datapack/bink2w32.dll
+File Version Number             : 2.7.3.0
+Product Version                 : 2.7d/1.300d
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Trials Rising/datapack
