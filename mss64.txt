@@ -1,0 +1,20 @@
+======== L:/Epic/Epic Games/GalacticCivilizations3/mss64.dll
+File Version Number             : 9.3.21.0
+Product Version                 : 9.3v
+Directory                       : L:/Epic/Epic Games/GalacticCivilizations3
+======== L:/Steam/Games/steamapps/common/dota 2 test/game/bin/win64/mss64.dll
+File Version Number             : 9.3.9.0
+Product Version                 : 9.3k
+Directory                       : L:/Steam/Games/steamapps/common/dota 2 test/game/bin/win64
+======== L:/Steam/Games/steamapps/common/The Lab/RobotRepair/bin/win64/mss64.dll
+File Version Number             : 9.3.9.0
+Product Version                 : 9.3k
+Directory                       : L:/Steam/Games/steamapps/common/The Lab/RobotRepair/bin/win64
+======== L:/Steam/Games/steamapps/common/Halo The Master Chief Collection/halo2/mss64.dll
+File Version Number             : 9.3.5.0
+Product Version                 : 9.3f
+Directory                       : L:/Steam/Games/steamapps/common/Halo The Master Chief Collection/halo2
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/Anno 1701 - History Edition/mss64.dll
+File Version Number             : 9.3.5.0
+Product Version                 : 9.3f
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/Anno 1701 - History Edition

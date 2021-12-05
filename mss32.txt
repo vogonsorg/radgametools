@@ -1,0 +1,156 @@
+======== L:/1/steamapps/common/Left 4 Dead 2/bin/mss32.dll
+File Version Number             : 9.2.0.0
+Product Version                 : 9.2a
+Directory                       : L:/1/steamapps/common/Left 4 Dead 2/bin
+======== L:/GOG/Games/Anachronox/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.1c
+Directory                       : L:/GOG/Games/Anachronox
+======== L:/GOG/Games/Expendable/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 5.0h
+Directory                       : L:/GOG/Games/Expendable
+======== L:/GOG/Games/The Witcher Enhanced Edition/System/mss32.dll
+File Version Number             : 7.2.2.0
+Product Version                 : 7.2c
+Directory                       : L:/GOG/Games/The Witcher Enhanced Edition/System
+======== L:/GOG/Games/Vampire The Masquerade - Redemption/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.0d
+Directory                       : L:/GOG/Games/Vampire The Masquerade - Redemption
+======== L:/Origin/Games/Origin Games/Alice Madness Returns The Complete Collection/Game/Alice1/bin/SndDrivers/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.0b
+Directory                       : L:/Origin/Games/Origin Games/Alice Madness Returns The Complete Collection/Game/Alice1/bin/SndDrivers
+======== L:/Origin/Games/Origin Games/Medal of Honor Pacific Assault/snddrivers/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.6a
+Directory                       : L:/Origin/Games/Origin Games/Medal of Honor Pacific Assault/snddrivers
+======== L:/Origin/Games/Origin Games/NOX/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 5.0q
+Directory                       : L:/Origin/Games/Origin Games/NOX
+======== L:/Steam/Client/Steam/bin/mss32.dll
+File Version Number             : 9.3.9.0
+Product Version                 : 9.3k
+Directory                       : L:/Steam/Client/Steam/bin
+======== L:/Steam/Games/steamapps/common/RACE On - DEMO/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.6c
+Directory                       : L:/Steam/Games/steamapps/common/RACE On - DEMO
+======== L:/Steam/Games/steamapps/common/Left 4 Dead 2 Dedicated Server/bin/mss32.dll
+File Version Number             : 9.2.0.0
+Product Version                 : 9.2a
+Directory                       : L:/Steam/Games/steamapps/common/Left 4 Dead 2 Dedicated Server/bin
+======== L:/Steam/Games/steamapps/common/call of duty modern warfare 3/mss32.dll
+File Version Number             : 7.0.23.0
+Product Version                 : 7.0w
+Directory                       : L:/Steam/Games/steamapps/common/call of duty modern warfare 3
+======== L:/Steam/Games/steamapps/common/StreamingVideoPlayer/bin/mss32.dll
+File Version Number             : 9.3.4.0
+Product Version                 : 9.3e
+Directory                       : L:/Steam/Games/steamapps/common/StreamingVideoPlayer/bin
+======== L:/Steam/Games/steamapps/common/RACE On - Demo Dedicated Server/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.6c
+Directory                       : L:/Steam/Games/steamapps/common/RACE On - Demo Dedicated Server
+======== L:/Steam/Games/steamapps/common/STCC Demo/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.6c
+Directory                       : L:/Steam/Games/steamapps/common/STCC Demo
+======== L:/Steam/Games/steamapps/common/portal 2/bin/mss32.dll
+File Version Number             : 9.2.0.0
+Product Version                 : 9.2a
+Directory                       : L:/Steam/Games/steamapps/common/portal 2/bin
+======== L:/Steam/Games/steamapps/common/SteamVR/bin/win32/mss32.dll
+File Version Number             : 9.3.9.0
+Product Version                 : 9.3k
+Directory                       : L:/Steam/Games/steamapps/common/SteamVR/bin/win32
+======== L:/Steam/Games/steamapps/common/Red Faction II/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.5b
+Directory                       : L:/Steam/Games/steamapps/common/Red Faction II
+======== L:/Steam/Games/steamapps/common/SourceFilmmaker/game/bin/mss32.dll
+File Version Number             : 7.2.6.0
+Product Version                 : 7.2g
+Directory                       : L:/Steam/Games/steamapps/common/SourceFilmmaker/game/bin
+======== L:/Steam/Games/steamapps/common/Counter-Strike Global Offensive/bin/mss32.dll
+File Version Number             : 9.3.9.0
+Product Version                 : 9.3k
+Directory                       : L:/Steam/Games/steamapps/common/Counter-Strike Global Offensive/bin
+======== L:/Steam/Games/steamapps/common/Total War SHOGUN 2/mss32.dll
+File Version Number             : 8.0.3.0
+Product Version                 : 8.0d
+Directory                       : L:/Steam/Games/steamapps/common/Total War SHOGUN 2
+======== L:/Steam/Games/steamapps/common/STCC Demo Dedicated Server/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.6c
+Directory                       : L:/Steam/Games/steamapps/common/STCC Demo Dedicated Server
+======== L:/Steam/Games/steamapps/common/dota 2 test/game/bin/win32/mss32.dll
+File Version Number             : 9.3.9.0
+Product Version                 : 9.3k
+Directory                       : L:/Steam/Games/steamapps/common/dota 2 test/game/bin/win32
+======== L:/Steam/Games/steamapps/common/Titan Quest Anniversary Edition/mss32.dll
+File Version Number             : 6.6.7.0
+Product Version                 : 6.6g
+Directory                       : L:/Steam/Games/steamapps/common/Titan Quest Anniversary Edition
+======== L:/Steam/Games/steamapps/common/left 4 dead 2 demo/bin/mss32.dll
+File Version Number             : 7.2.6.0
+Product Version                 : 7.2g
+Directory                       : L:/Steam/Games/steamapps/common/left 4 dead 2 demo/bin
+======== L:/Steam/Games/steamapps/common/call of duty modern warfare 2/mss32.dll
+File Version Number             : 7.0.23.0
+Product Version                 : 7.0w
+Directory                       : L:/Steam/Games/steamapps/common/call of duty modern warfare 2
+======== L:/Steam/Games/steamapps/common/alien swarm/bin/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.6a
+Directory                       : L:/Steam/Games/steamapps/common/alien swarm/bin
+======== L:/Steam/Games/steamapps/common/GTR Evolution Demo Dedicated Server/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.6c
+Directory                       : L:/Steam/Games/steamapps/common/GTR Evolution Demo Dedicated Server
+======== L:/Steam/Games/steamapps/common/GTR Evolution - DEMO/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.6c
+Directory                       : L:/Steam/Games/steamapps/common/GTR Evolution - DEMO
+======== L:/Steam/Games/steamapps/common/duke nukem forever/System/mss32.dll
+File Version Number             : 7.2.6.0
+Product Version                 : 7.2g
+Directory                       : L:/Steam/Games/steamapps/common/duke nukem forever/System
+======== L:/Steam/Games/steamapps/common/Race07 Demo/mss32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 6.6c
+Directory                       : L:/Steam/Games/steamapps/common/Race07 Demo
+======== L:/Steam/Games/steamapps/common/left 4 dead 2/bin/mss32.dll
+File Version Number             : 9.2.0.0
+Product Version                 : 9.2a
+Directory                       : L:/Steam/Games/steamapps/common/left 4 dead 2/bin
+======== L:/Steam/Games/steamapps/common/left 4 dead 2 Add-on Support/bin/mss32.dll
+File Version Number             : 9.2.0.0
+Product Version                 : 9.2a
+Directory                       : L:/Steam/Games/steamapps/common/left 4 dead 2 Add-on Support/bin
+======== L:/Steam/Games/steamapps/common/H2EK/bin/mss32.dll
+File Version Number             : 9.3.5.0
+Product Version                 : 9.3f
+Directory                       : L:/Steam/Games/steamapps/common/H2EK/bin
+======== L:/Steam/Games/steamapps/common/Left 4 Dead 2 Beta/bin/mss32.dll
+File Version Number             : 9.2.0.0
+Product Version                 : 9.2a
+Directory                       : L:/Steam/Games/steamapps/common/Left 4 Dead 2 Beta/bin
+======== L:/Steam/Games/steamapps/common/Left 4 Dead Dedicated Server/bin/mss32.dll
+File Version Number             : 7.2.6.0
+Product Version                 : 7.2g
+Directory                       : L:/Steam/Games/steamapps/common/Left 4 Dead Dedicated Server/bin
+======== L:/Steam/MacOS/Games/steamapps/common/left 4 dead/bin/mss32.dll
+File Version Number             : 7.2.6.0
+Product Version                 : 7.2g
+Directory                       : L:/Steam/MacOS/Games/steamapps/common/left 4 dead/bin
+======== L:/Steam/MacOS/Games/steamapps/common/Left 4 Dead 2/bin/mss32.dll
+File Version Number             : 9.2.0.0
+Product Version                 : 9.2a
+Directory                       : L:/Steam/MacOS/Games/steamapps/common/Left 4 Dead 2/bin
+======== L:/Ubisoft/Games/Ubisoft Game Launcher/games/World in Conflict/mss32.dll
+File Version Number             : 7.0.20.0
+Product Version                 : 7.0t
+Directory                       : L:/Ubisoft/Games/Ubisoft Game Launcher/games/World in Conflict
