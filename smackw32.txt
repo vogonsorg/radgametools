@@ -1,0 +1,9 @@
+3.0g GOG/Games/Interstate 76 Nitro Pack/smackw32.dll
+Directory                       : GOG/Games/Interstate 76 Nitro Pack
+2.1g GOG/Games/Master of Orion 2/smackw32.dll
+Directory                       : GOG/Games/Master of Orion 2
+3.2g GOG/Games/The Longest Journey/smackw32.dll
+File Version Number             : 3.0.0.0
+Directory                       : GOG/Games/The Longest Journey
+3.0j GOG/Games/Total Annihilation/smackw32.dll
+Directory                       : GOG/Games/Total Annihilation
