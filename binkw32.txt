@@ -1,0 +1,892 @@
+/steamapps/common/Half-Life 2 Update/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : steamapps/common/Half-Life 2 Update/bin
+/steamapps/common/KillingFloor/System/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : steamapps/common/KillingFloor/System
+/steamapps/common/Left 4 Dead 2/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : steamapps/common/Left 4 Dead 2/bin
+/steamapps/common/PAYDAY The Heist/binkw32.dll
+File Version Number             : 1.9.1.0
+Product Version                 : 1.9a
+Directory                       : steamapps/common/PAYDAY The Heist
+/steamapps/common/Saints Row IV/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : steamapps/common/Saints Row IV
+/steamapps/common/Source SDK Base 2007/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : steamapps/common/Source SDK Base 2007/bin
+/Bethesda/Bethesda.net Launcher/games/Morrowind/binkw32.dll
+File Version Number             : 1.5.1.0
+Product Version                 : 1.5a
+Directory                       : Bethesda/Bethesda.net Launcher/games/Morrowind
+/Epic/Epic Games/AlanWake/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99n
+Directory                       : Epic/Epic Games/AlanWake
+/Epic/Epic Games/AWAN/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99n
+Directory                       : Epic/Epic Games/AWAN
+/Epic/Epic Games/BatmanArkhamAsylum/Binaries/binkw32.dll
+File Version Number             : 1.9.9.0
+Product Version                 : 1.9i
+Directory                       : Epic/Epic Games/BatmanArkhamAsylum/Binaries
+/Epic/Epic Games/Borderlands2/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99p
+Directory                       : Epic/Epic Games/Borderlands2/Binaries/Win32
+/Epic/Epic Games/BorderlandsThePreSequel/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99p
+Directory                       : Epic/Epic Games/BorderlandsThePreSequel/Binaries/Win32
+/Epic/Epic Games/Darksiders2/binkw32.dll
+File Version Number             : 1.999.4.0
+Product Version                 : 1.994i
+Directory                       : Epic/Epic Games/Darksiders2
+/Epic/Epic Games/Hob/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99L
+Directory                       : Epic/Epic Games/Hob
+/Epic/Epic Games/LegoBatman/binkw32.dll
+File Version Number             : 1.8.21.0
+Product Version                 : 1.8v
+Directory                       : Epic/Epic Games/LegoBatman
+/Epic/Epic Games/RaymanLegends/binkw32.dll
+File Version Number             : 1.9.25.0
+Product Version                 : 1.9z
+Directory                       : Epic/Epic Games/RaymanLegends
+/Epic/Epic Games/RebelGalaxy/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99L
+Directory                       : Epic/Epic Games/RebelGalaxy
+/Epic/Epic Games/Torchlight2/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99L
+Directory                       : Epic/Epic Games/Torchlight2
+/GOG/Games/Advent Rising/System/binkw32.dll
+File Version Number             : 1.7.3.0
+Product Version                 : 1.7d
+Directory                       : GOG/Games/Advent Rising/System
+/GOG/Games/AvP Classic/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : GOG/Games/AvP Classic
+/GOG/Games/Beyond Good and Evil/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.5v
+Directory                       : GOG/Games/Beyond Good and Evil
+/GOG/Games/Carmageddon TDR2K/binkw32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 1.0j
+Directory                       : GOG/Games/Carmageddon TDR2K
+/GOG/Games/Divine Divinity/binkw32.dll
+File Version Number             : 1.5.7.0
+Product Version                 : 1.5g
+Directory                       : GOG/Games/Divine Divinity
+/GOG/Games/Dragon Age Origins/bin_ship/binkw32.dll
+File Version Number             : 1.8.21.0
+Product Version                 : 1.8v
+Directory                       : GOG/Games/Dragon Age Origins/bin_ship
+/GOG/Games/Fallout Tactics/binkw32.dll
+File Version Number             : 1.0.22.0
+Product Version                 : 1.0w
+Directory                       : GOG/Games/Fallout Tactics
+/GOG/Games/Gabriel Knight 3/binkw32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 0.9f
+Directory                       : GOG/Games/Gabriel Knight 3
+/GOG/Games/Hitman Absolution/retail/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99m
+Directory                       : GOG/Games/Hitman Absolution/retail
+/GOG/Games/Homeworld Remastered/Homeworld1Classic/exe/binkw32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 0.8i
+Directory                       : GOG/Games/Homeworld Remastered/Homeworld1Classic/exe
+/GOG/Games/NWN Diamond/binkw32.dll
+File Version Number             : 1.5.10.0
+Product Version                 : 1.5J
+Directory                       : GOG/Games/NWN Diamond
+/GOG/Games/Psychonauts/binkw32.dll
+File Version Number             : 1.6.4.0
+Product Version                 : 1.6e
+Directory                       : GOG/Games/Psychonauts
+/GOG/Games/Rise of the Triad (2013)/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99v
+Directory                       : GOG/Games/Rise of the Triad (2013)/Binaries/Win32
+/GOG/Games/Robin Hood - The Legend of Sherwood/binkw32.dll
+File Version Number             : 1.5.11.0
+Product Version                 : 1.5L
+Directory                       : GOG/Games/Robin Hood - The Legend of Sherwood
+/GOG/Games/Saints Row - Gat Out of Hell/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : GOG/Games/Saints Row - Gat Out of Hell
+/GOG/Games/Saints Row 2/binkw32.dll
+File Version Number             : 1.9.5.0
+Product Version                 : 1.9e
+Directory                       : GOG/Games/Saints Row 2
+/GOG/Games/Saints Row 3/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : GOG/Games/Saints Row 3
+/GOG/Games/Saints Row 4/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : GOG/Games/Saints Row 4
+/GOG/Games/Shadow Warrior/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99t
+Directory                       : GOG/Games/Shadow Warrior
+/GOG/Games/Shadow Warrior 2013 dx11/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : GOG/Games/Shadow Warrior 2013 dx11
+/GOG/Games/Stronghold HD/binkw32.dll
+File Version Number             : 1.2.8.0
+Product Version                 : 1.2h
+Directory                       : GOG/Games/Stronghold HD
+/GOG/Games/Syberia/binkw32.dll
+File Version Number             : 1.5.1.0
+Product Version                 : 1.5a
+Directory                       : GOG/Games/Syberia
+/GOG/Games/Syberia 2/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.5y
+Directory                       : GOG/Games/Syberia 2
+/GOG/Games/The Longest Journey/binkw32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 0.8i
+Directory                       : GOG/Games/The Longest Journey
+/GOG/Games/The Witcher Enhanced Edition/System/binkw32.dll
+File Version Number             : 1.9.8.0
+Product Version                 : 1.9h
+Directory                       : GOG/Games/The Witcher Enhanced Edition/System
+/GOG/Games/Tropico 3 Gold/binkw32.dll
+File Version Number             : 1.9.7.0
+Product Version                 : 1.9g
+Directory                       : GOG/Games/Tropico 3 Gold
+/GOG/Games/Vampire The Masquerade - Redemption/binkw32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 1.0i
+Directory                       : GOG/Games/Vampire The Masquerade - Redemption
+/GOG/Games/WARHAMMER 40K Rites of War/binkw32.dll
+File Version Number             : 3.0.0.0
+Product Version                 : 0.9n
+Directory                       : GOG/Games/WARHAMMER 40K Rites of War
+/GOG/Games/XIII/system/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.5v
+Directory                       : GOG/Games/XIII/system
+/Origin/Games/Origin Games/Alice Madness Returns The Complete Collection/Game/Alice2/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.16.0
+Product Version                 : 1.9p
+Directory                       : Origin/Games/Origin Games/Alice Madness Returns The Complete Collection/Game/Alice2/Binaries/Win32
+/Origin/Games/Origin Games/Alice Madness Returns The Complete Collection/__Installer/DISK1/Game/Alice2/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.16.0
+Product Version                 : 1.9p
+Directory                       : Origin/Games/Origin Games/Alice Madness Returns The Complete Collection/__Installer/DISK1/Game/Alice2/Binaries/Win32
+/Origin/Games/Origin Games/Battlefield 1942/binkw32.dll
+File Version Number             : 1.5.10.0
+Product Version                 : 1.5J
+Directory                       : Origin/Games/Origin Games/Battlefield 1942
+/Origin/Games/Origin Games/Bulletstorm/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.24.0
+Product Version                 : 1.9y
+Directory                       : Origin/Games/Origin Games/Bulletstorm/Binaries/Win32
+/Origin/Games/Origin Games/Dragon Age/bin_ship/binkw32.dll
+File Version Number             : 1.8.21.0
+Product Version                 : 1.8v
+Directory                       : Origin/Games/Origin Games/Dragon Age/bin_ship
+/Origin/Games/Origin Games/Jade Empire/binkw32.dll
+File Version Number             : 1.8.3.0
+Product Version                 : 1.8d
+Directory                       : Origin/Games/Origin Games/Jade Empire
+/Origin/Games/Origin Games/Mass Effect/Binaries/binkw32.dll
+File Version Number             : 1.8.21.0
+Product Version                 : 1.8v
+Directory                       : Origin/Games/Origin Games/Mass Effect/Binaries
+/Origin/Games/Origin Games/Mass Effect 2/Binaries/binkw32.dll
+File Version Number             : 1.9.5.0
+Product Version                 : 1.9e
+Directory                       : Origin/Games/Origin Games/Mass Effect 2/Binaries
+/Origin/Games/Origin Games/Mass Effect 3/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.16.0
+Product Version                 : 1.9p
+Directory                       : Origin/Games/Origin Games/Mass Effect 3/Binaries/Win32
+/Origin/Games/Origin Games/Medal of Honor Pacific Assault/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.5y
+Directory                       : Origin/Games/Origin Games/Medal of Honor Pacific Assault
+/Origin/Games/Origin Games/Syberia II/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.5y
+Directory                       : Origin/Games/Origin Games/Syberia II
+/Steam/Games/steamapps/common/RACE On - DEMO/binkw32.dll
+File Version Number             : 1.6.3.0
+Product Version                 : 1.6d
+Directory                       : Steam/Games/steamapps/common/RACE On - DEMO
+/Steam/Games/steamapps/common/red faction armageddon/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99d
+Directory                       : Steam/Games/steamapps/common/red faction armageddon
+/Steam/Games/steamapps/common/XCom-Enemy-Unknown/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99a
+Directory                       : Steam/Games/steamapps/common/XCom-Enemy-Unknown/Binaries/Win32
+/Steam/Games/steamapps/common/Far Cry 3/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99L
+Directory                       : Steam/Games/steamapps/common/Far Cry 3/bin
+/Steam/Games/steamapps/common/OldCM2013/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/OldCM2013/bin
+/Steam/Games/steamapps/common/Synergy Dedicated Server/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/Synergy Dedicated Server/bin
+/Steam/Games/steamapps/common/Left 4 Dead 2 Dedicated Server/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Left 4 Dead 2 Dedicated Server/bin
+/Steam/Games/steamapps/common/homefront dedicated server/Binaries/binkw32.dll
+File Version Number             : 1.9.9.0
+Product Version                 : 1.9i
+Directory                       : Steam/Games/steamapps/common/homefront dedicated server/Binaries
+/Steam/Games/steamapps/common/call of duty modern warfare 3/binkw32.dll
+File Version Number             : 1.8.23.0
+Product Version                 : 1.8x
+Directory                       : Steam/Games/steamapps/common/call of duty modern warfare 3
+/Steam/Games/steamapps/common/Tomb Raider/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : Steam/Games/steamapps/common/Tomb Raider
+/Steam/Games/steamapps/common/dino d-day/bin/binkw32.dll
+File Version Number             : 1.9.17.0
+Product Version                 : 1.9q
+Directory                       : Steam/Games/steamapps/common/dino d-day/bin
+/Steam/Games/steamapps/common/Dishonored/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.16.0
+Product Version                 : 1.9p
+Directory                       : Steam/Games/steamapps/common/Dishonored/Binaries/Win32
+/Steam/Games/steamapps/common/D.I.P.R.I.P. Dedicated Server/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/D.I.P.R.I.P. Dedicated Server/bin
+/Steam/Games/steamapps/common/Red Faction Guerrilla/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99d
+Directory                       : Steam/Games/steamapps/common/Red Faction Guerrilla
+/Steam/Games/steamapps/common/Enderal/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : Steam/Games/steamapps/common/Enderal
+/Steam/Games/steamapps/common/RACE On - Demo Dedicated Server/binkw32.dll
+File Version Number             : 1.6.3.0
+Product Version                 : 1.6d
+Directory                       : Steam/Games/steamapps/common/RACE On - Demo Dedicated Server
+/Steam/Games/steamapps/common/The Divinity Engine/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : Steam/Games/steamapps/common/The Divinity Engine
+/Steam/Games/steamapps/common/mafia ii - public demo/pc/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : Steam/Games/steamapps/common/mafia ii - public demo/pc
+/Steam/Games/steamapps/common/Portal/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Portal/bin
+/Steam/Games/steamapps/common/sanctum/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99a
+Directory                       : Steam/Games/steamapps/common/sanctum/Binaries/Win32
+/Steam/Games/steamapps/common/Half-Life Deathmatch Source Dedicated server/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Half-Life Deathmatch Source Dedicated server/bin
+/Steam/Games/steamapps/common/STCC Demo/binkw32.dll
+File Version Number             : 1.6.3.0
+Product Version                 : 1.6d
+Directory                       : Steam/Games/steamapps/common/STCC Demo
+/Steam/Games/steamapps/common/bulletstorm demo/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.24.0
+Product Version                 : 1.9y
+Directory                       : Steam/Games/steamapps/common/bulletstorm demo/Binaries/Win32
+/Steam/Games/steamapps/common/nuclear dawn/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/nuclear dawn/bin
+/Steam/Games/steamapps/common/max payne 3/Max Payne 3/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99m
+Directory                       : Steam/Games/steamapps/common/max payne 3/Max Payne 3
+/Steam/Games/steamapps/common/Half-Life 2 Deathmatch/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Half-Life 2 Deathmatch/bin
+/Steam/Games/steamapps/common/dirt 2/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : Steam/Games/steamapps/common/dirt 2
+/Steam/Games/steamapps/common/skyrim/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : Steam/Games/steamapps/common/skyrim
+/Steam/Games/steamapps/common/Batman Arkham Origins/Online/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.16.0
+Product Version                 : 1.9p
+Directory                       : Steam/Games/steamapps/common/Batman Arkham Origins/Online/Binaries/Win32
+/Steam/Games/steamapps/common/Batman Arkham Origins/SinglePlayer/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.16.0
+Product Version                 : 1.9p
+Directory                       : Steam/Games/steamapps/common/Batman Arkham Origins/SinglePlayer/Binaries/Win32
+/Steam/Games/steamapps/common/Call of Duty Black Ops II/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99g
+Directory                       : Steam/Games/steamapps/common/Call of Duty Black Ops II
+/Steam/Games/steamapps/common/pirates, vikings and knights ii/sdkbase_pvkii/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/pirates, vikings and knights ii/sdkbase_pvkii/bin
+/Steam/Games/steamapps/common/portal 2/bin/binkw32.dll
+File Version Number             : 1.9.17.0
+Product Version                 : 1.9q
+Directory                       : Steam/Games/steamapps/common/portal 2/bin
+/Steam/Games/steamapps/common/Shadow Warrior/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99t
+Directory                       : Steam/Games/steamapps/common/Shadow Warrior
+/Steam/Games/steamapps/common/Shadow Warrior/dx11/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : Steam/Games/steamapps/common/Shadow Warrior/dx11
+/Steam/Games/steamapps/common/rage/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99d
+Directory                       : Steam/Games/steamapps/common/rage
+/Steam/Games/steamapps/common/SleepingDogs/binkw32.dll
+File Version Number             : 1.9.9.0
+Product Version                 : 1.9i
+Directory                       : Steam/Games/steamapps/common/SleepingDogs
+/Steam/Games/steamapps/common/Red Faction II/binkw32.dll
+File Version Number             : 1.5.11.0
+Product Version                 : 1.5L
+Directory                       : Steam/Games/steamapps/common/Red Faction II
+/Steam/Games/steamapps/common/Age of Chivalry Dedicated Server/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/Age of Chivalry Dedicated Server/bin
+/Steam/Games/steamapps/common/Dark Messiah Might and Magic Dedicated Server/bin/binkw32.dll
+File Version Number             : 1.8.8.0
+Product Version                 : 1.8J
+Directory                       : Steam/Games/steamapps/common/Dark Messiah Might and Magic Dedicated Server/bin
+/Steam/Games/steamapps/common/DOOM 3 BFG Edition/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99d
+Directory                       : Steam/Games/steamapps/common/DOOM 3 BFG Edition
+/Steam/Games/steamapps/common/Bioshock/Builds/Release/binkw32.dll
+File Version Number             : 1.8.8.0
+Product Version                 : 1.8i
+Directory                       : Steam/Games/steamapps/common/Bioshock/Builds/Release
+/Steam/Games/steamapps/common/aliens vs predator/binkw32.dll
+File Version Number             : 1.9.18.0
+Product Version                 : 1.9r
+Directory                       : Steam/Games/steamapps/common/aliens vs predator
+/Steam/Games/steamapps/common/Borderlands/Binaries/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : Steam/Games/steamapps/common/Borderlands/Binaries
+/Steam/Games/steamapps/common/SourceFilmmaker/game/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/SourceFilmmaker/game/bin
+/Steam/Games/steamapps/common/Far Cry 3 Blood Dragon/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99L
+Directory                       : Steam/Games/steamapps/common/Far Cry 3 Blood Dragon/bin
+/Steam/Games/steamapps/common/l.a.noire/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99a
+Directory                       : Steam/Games/steamapps/common/l.a.noire
+/Steam/Games/steamapps/common/monday night combat dedicated server/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.16.0
+Product Version                 : 1.9p
+Directory                       : Steam/Games/steamapps/common/monday night combat dedicated server/Binaries/Win32
+/Steam/Games/steamapps/common/BorderlandsPreSequel/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99p
+Directory                       : Steam/Games/steamapps/common/BorderlandsPreSequel/Binaries/Win32
+/Steam/Games/steamapps/common/Team Fortress 2 Beta/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Team Fortress 2 Beta/bin
+/Steam/Games/steamapps/common/eye/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/eye/bin
+/Steam/Games/steamapps/common/Day of Defeat Source/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Day of Defeat Source/bin
+/Steam/Games/steamapps/common/Just Cause/binkw32.dll
+File Version Number             : 1.8.0.0
+Product Version                 : 1.8a
+Directory                       : Steam/Games/steamapps/common/Just Cause
+/Steam/Games/steamapps/common/hardreset/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99a
+Directory                       : Steam/Games/steamapps/common/hardreset
+/Steam/Games/steamapps/common/fallout new vegas/binkw32.dll
+File Version Number             : 1.7.3.0
+Product Version                 : 1.7d
+Directory                       : Steam/Games/steamapps/common/fallout new vegas
+/Steam/Games/steamapps/common/killingfloorbeta/System/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : Steam/Games/steamapps/common/killingfloorbeta/System
+/Steam/Games/steamapps/common/alan wake/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99n
+Directory                       : Steam/Games/steamapps/common/alan wake
+/Steam/Games/steamapps/common/Divinity - Original Sin/Shipping/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : Steam/Games/steamapps/common/Divinity - Original Sin/Shipping
+/Steam/Games/steamapps/common/unreal tournament 3/Binaries/binkw32.dll
+File Version Number             : 1.8.23.0
+Product Version                 : 1.8x
+Directory                       : Steam/Games/steamapps/common/unreal tournament 3/Binaries
+/Steam/Games/steamapps/common/Just cause 2/binkw32.dll
+File Version Number             : 1.9.17.0
+Product Version                 : 1.9q
+Directory                       : Steam/Games/steamapps/common/Just cause 2
+/Steam/Games/steamapps/common/Borderlands 2/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99p
+Directory                       : Steam/Games/steamapps/common/Borderlands 2/Binaries/Win32
+/Steam/Games/steamapps/common/Painkiller Hell & Damnation Dedicated Server/Binaries/Server/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Painkiller Hell & Damnation Dedicated Server/Binaries/Server
+/Steam/Games/steamapps/common/Sins of a Solar Empire Rebellion/binkw32.dll
+File Version Number             : 1.9.1.0
+Product Version                 : 1.9a
+Directory                       : Steam/Games/steamapps/common/Sins of a Solar Empire Rebellion
+/Steam/Games/steamapps/common/chivalrymedievalwarfare/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : Steam/Games/steamapps/common/chivalrymedievalwarfare/Binaries/Win32
+/Steam/Games/steamapps/common/chivalrymedievalwarfare/CDW/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : Steam/Games/steamapps/common/chivalrymedievalwarfare/CDW/Binaries/Win32
+/Steam/Games/steamapps/common/Total War SHOGUN 2/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99b
+Directory                       : Steam/Games/steamapps/common/Total War SHOGUN 2
+/Steam/Games/steamapps/common/Bloody Good Time/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/Bloody Good Time/bin
+/Steam/Games/steamapps/common/Red Faction Guerrilla Re-MARS-tered/binkw32.dll
+File Version Number             : 1.300.7.0
+Product Version                 : 1.300g
+Directory                       : Steam/Games/steamapps/common/Red Faction Guerrilla Re-MARS-tered
+/Steam/Games/steamapps/common/BioShock 2/MP/Builds/Binaries/binkw32.dll
+File Version Number             : 1.9.16.0
+Product Version                 : 1.9p
+Directory                       : Steam/Games/steamapps/common/BioShock 2/MP/Builds/Binaries
+/Steam/Games/steamapps/common/BioShock 2/SP/Builds/Binaries/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99a
+Directory                       : Steam/Games/steamapps/common/BioShock 2/SP/Builds/Binaries
+/Steam/Games/steamapps/common/Tropico 3/binkw32.dll
+File Version Number             : 1.9.7.0
+Product Version                 : 1.9g
+Directory                       : Steam/Games/steamapps/common/Tropico 3
+/Steam/Games/steamapps/common/FarCry/Bin32/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.5v
+Directory                       : Steam/Games/steamapps/common/FarCry/Bin32
+/Steam/Games/steamapps/common/batman arkham asylum goty/Binaries/binkw32.dll
+File Version Number             : 1.9.9.0
+Product Version                 : 1.9i
+Directory                       : Steam/Games/steamapps/common/batman arkham asylum goty/Binaries
+/Steam/Games/steamapps/common/call of duty black ops/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : Steam/Games/steamapps/common/call of duty black ops
+/Steam/Games/steamapps/common/primal_carnage_server/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/primal_carnage_server/Binaries/Win32
+/Steam/Games/steamapps/common/saints row the third/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : Steam/Games/steamapps/common/saints row the third
+/Steam/Games/steamapps/common/Red Faction/binkw32.dll
+File Version Number             : 1.0.23.0
+Product Version                 : 1.0x
+Directory                       : Steam/Games/steamapps/common/Red Faction
+/Steam/Games/steamapps/common/I am Alive/src/SYSTEM/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99a
+Directory                       : Steam/Games/steamapps/common/I am Alive/src/SYSTEM
+/Steam/Games/steamapps/common/sniper elite v2/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : Steam/Games/steamapps/common/sniper elite v2
+/Steam/Games/steamapps/common/chivalry_ded_server/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : Steam/Games/steamapps/common/chivalry_ded_server/Binaries/Win32
+/Steam/Games/steamapps/common/STCC Demo Dedicated Server/binkw32.dll
+File Version Number             : 1.6.3.0
+Product Version                 : 1.6d
+Directory                       : Steam/Games/steamapps/common/STCC Demo Dedicated Server
+/Steam/Games/steamapps/common/america's army 3 dedicated server/Binaries/binkw32.dll
+File Version Number             : 1.9.1.0
+Product Version                 : 1.9a
+Directory                       : Steam/Games/steamapps/common/america's army 3 dedicated server/Binaries
+/Steam/Games/steamapps/common/PAYDAY 2/binkw32.dll
+File Version Number             : 1.999.2.0
+Product Version                 : 1.990c
+Directory                       : Steam/Games/steamapps/common/PAYDAY 2
+/Steam/Games/steamapps/common/america's army 3/Binaries/binkw32.dll
+File Version Number             : 1.9.1.0
+Product Version                 : 1.9a
+Directory                       : Steam/Games/steamapps/common/america's army 3/Binaries
+/Steam/Games/steamapps/common/dirt showdown demo/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99n
+Directory                       : Steam/Games/steamapps/common/dirt showdown demo
+/Steam/Games/steamapps/common/brink/binkw32.dll
+File Version Number             : 1.9.17.0
+Product Version                 : 1.9q
+Directory                       : Steam/Games/steamapps/common/brink
+/Steam/Games/steamapps/common/aliens vs predator demo/binkw32.dll
+File Version Number             : 1.9.18.0
+Product Version                 : 1.9r
+Directory                       : Steam/Games/steamapps/common/aliens vs predator demo
+/Steam/Games/steamapps/common/Bloody Good Time Dedicated Server/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/Bloody Good Time Dedicated Server/bin
+/Steam/Games/steamapps/common/Titan Quest Anniversary Edition/binkw32.dll
+File Version Number             : 1.8.6.0
+Product Version                 : 1.8g
+Directory                       : Steam/Games/steamapps/common/Titan Quest Anniversary Edition
+/Steam/Games/steamapps/common/left 4 dead 2 demo/bin/binkw32.dll
+File Version Number             : 1.9.17.0
+Product Version                 : 1.9q
+Directory                       : Steam/Games/steamapps/common/left 4 dead 2 demo/bin
+/Steam/Games/steamapps/common/homefront demo/Binaries/binkw32.dll
+File Version Number             : 1.9.9.0
+Product Version                 : 1.9i
+Directory                       : Steam/Games/steamapps/common/homefront demo/Binaries
+/Steam/Games/steamapps/common/call of duty modern warfare 2/binkw32.dll
+File Version Number             : 1.8.23.0
+Product Version                 : 1.8x
+Directory                       : Steam/Games/steamapps/common/call of duty modern warfare 2
+/Steam/Games/steamapps/common/Antichamber/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99a
+Directory                       : Steam/Games/steamapps/common/Antichamber/Binaries/Win32
+/Steam/Games/steamapps/common/alien swarm/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/alien swarm/bin
+/Steam/Games/steamapps/common/GTR Evolution Demo Dedicated Server/binkw32.dll
+File Version Number             : 1.6.3.0
+Product Version                 : 1.6d
+Directory                       : Steam/Games/steamapps/common/GTR Evolution Demo Dedicated Server
+/Steam/Games/steamapps/common/Bulletstorm/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.24.0
+Product Version                 : 1.9y
+Directory                       : Steam/Games/steamapps/common/Bulletstorm/Binaries/Win32
+/Steam/Games/steamapps/common/Source 2007 Dedicated Server/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Source 2007 Dedicated Server/bin
+/Steam/Games/steamapps/common/Half-Life 2/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Half-Life 2/bin
+/Steam/Games/steamapps/common/GTR Evolution - DEMO/binkw32.dll
+File Version Number             : 1.6.3.0
+Product Version                 : 1.6d
+Directory                       : Steam/Games/steamapps/common/GTR Evolution - DEMO
+/Steam/Games/steamapps/common/brink dedicated server/binkw32.dll
+File Version Number             : 1.9.17.0
+Product Version                 : 1.9q
+Directory                       : Steam/Games/steamapps/common/brink dedicated server
+/Steam/Games/steamapps/common/killingfloor/System/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : Steam/Games/steamapps/common/killingfloor/System
+/Steam/Games/steamapps/common/Team Fortress 2/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Team Fortress 2/bin
+/Steam/Games/steamapps/common/duke nukem forever/System/binkw32.dll
+File Version Number             : 1.9.21.0
+Product Version                 : 1.9u
+Directory                       : Steam/Games/steamapps/common/duke nukem forever/System
+/Steam/Games/steamapps/common/Race07 Demo/binkw32.dll
+File Version Number             : 1.6.3.0
+Product Version                 : 1.6d
+Directory                       : Steam/Games/steamapps/common/Race07 Demo
+/Steam/Games/steamapps/common/BioShock Infinite/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99m
+Directory                       : Steam/Games/steamapps/common/BioShock Infinite/Binaries/Win32
+/Steam/Games/steamapps/common/left 4 dead 2/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/left 4 dead 2/bin
+/Steam/Games/steamapps/common/mirrors edge/Binaries/binkw32.dll
+File Version Number             : 1.9.1.0
+Product Version                 : 1.9a
+Directory                       : Steam/Games/steamapps/common/mirrors edge/Binaries
+/Steam/Games/steamapps/common/left 4 dead 2 Add-on Support/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/left 4 dead 2 Add-on Support/bin
+/Steam/Games/steamapps/common/dungeon siege iii - demo/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99a
+Directory                       : Steam/Games/steamapps/common/dungeon siege iii - demo
+/Steam/Games/steamapps/common/Star Wars - The Old Republic/swtor/retailclient/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99b
+Directory                       : Steam/Games/steamapps/common/Star Wars - The Old Republic/swtor/retailclient
+/Steam/Games/steamapps/common/trackmania nations forever/binkw32.dll
+File Version Number             : 1.9.5.0
+Product Version                 : 1.9e
+Directory                       : Steam/Games/steamapps/common/trackmania nations forever
+/Steam/Games/steamapps/common/Orion Dino Beatdown/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99p
+Directory                       : Steam/Games/steamapps/common/Orion Dino Beatdown/Binaries/Win32
+/Steam/Games/steamapps/common/Half-Life 1 Source Deathmatch/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Half-Life 1 Source Deathmatch/bin
+/Steam/Games/steamapps/common/Moon Base Alpha/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.9.0
+Product Version                 : 1.9i
+Directory                       : Steam/Games/steamapps/common/Moon Base Alpha/Binaries/Win32
+/Steam/Games/steamapps/common/kane & lynch 2 - dog days demo/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.6a
+Directory                       : Steam/Games/steamapps/common/kane & lynch 2 - dog days demo
+/Steam/Games/steamapps/common/Source SDK Base 2007/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/Source SDK Base 2007/bin
+/Steam/Games/steamapps/common/Max Payne 2 The Fall of Max Payne/e2driver/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.5v
+Directory                       : Steam/Games/steamapps/common/Max Payne 2 The Fall of Max Payne/e2driver
+/Steam/Games/steamapps/common/Left 4 Dead 2 Beta/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Left 4 Dead 2 Beta/bin
+/Steam/Games/steamapps/common/Syberia 2/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.5y
+Directory                       : Steam/Games/steamapps/common/Syberia 2
+/Steam/Games/steamapps/common/Saints Row IV/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99f
+Directory                       : Steam/Games/steamapps/common/Saints Row IV
+/Steam/Games/steamapps/common/assassins creed brotherhood/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : Steam/Games/steamapps/common/assassins creed brotherhood
+/Steam/Games/steamapps/common/Half-Life 2 Update/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Half-Life 2 Update/bin
+/Steam/Games/steamapps/common/payday the heist/binkw32.dll
+File Version Number             : 1.9.1.0
+Product Version                 : 1.9a
+Directory                       : Steam/Games/steamapps/common/payday the heist
+/Steam/Games/steamapps/common/Source SDK Base 2013 Dedicated Server/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Source SDK Base 2013 Dedicated Server/bin
+/Steam/Games/steamapps/common/oblivion/binkw32.dll
+File Version Number             : 1.7.3.0
+Product Version                 : 1.7d
+Directory                       : Steam/Games/steamapps/common/oblivion
+/Steam/Games/steamapps/common/Syberia/binkw32.dll
+File Version Number             : 1.5.1.0
+Product Version                 : 1.5a
+Directory                       : Steam/Games/steamapps/common/Syberia
+/Steam/Games/steamapps/common/CM2013/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/CM2013/bin
+/Steam/Games/steamapps/common/Counter-Strike Source/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Counter-Strike Source/bin
+/Steam/Games/steamapps/common/grand theft auto iv/GTAIV/binkw32.dll
+File Version Number             : 1.9.18.0
+Product Version                 : 1.9r
+Directory                       : Steam/Games/steamapps/common/grand theft auto iv/GTAIV
+/Steam/Games/steamapps/common/xcom enforcer/System/binkw32.dll
+File Version Number             : 1.0.22.0
+Product Version                 : 1.0w
+Directory                       : Steam/Games/steamapps/common/xcom enforcer/System
+/Steam/Games/steamapps/common/left 4 dead/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/left 4 dead/bin
+/Steam/Games/steamapps/common/risen2demo/system/binkw32.dll
+File Version Number             : 1.8.8.0
+Product Version                 : 1.8i
+Directory                       : Steam/Games/steamapps/common/risen2demo/system
+/Steam/Games/steamapps/common/stranger's wrath/bin/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : Steam/Games/steamapps/common/stranger's wrath/bin
+/Steam/Games/steamapps/common/Source SDK Base 2013 Singleplayer/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Source SDK Base 2013 Singleplayer/bin
+/Steam/Games/steamapps/common/Evil Genius/ReleaseExe/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.6c
+Directory                       : Steam/Games/steamapps/common/Evil Genius/ReleaseExe
+/Steam/Games/steamapps/common/homefront japanese dedicated server/Binaries/binkw32.dll
+File Version Number             : 1.9.9.0
+Product Version                 : 1.9i
+Directory                       : Steam/Games/steamapps/common/homefront japanese dedicated server/Binaries
+/Steam/Games/steamapps/common/chivalry_dw_ded_server/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99w
+Directory                       : Steam/Games/steamapps/common/chivalry_dw_ded_server/Binaries/Win32
+/Steam/Games/steamapps/common/Left 4 Dead Dedicated Server/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/common/Left 4 Dead Dedicated Server/bin
+/Steam/Games/steamapps/common/Source SDK Base 2013 Multiplayer/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/Games/steamapps/common/Source SDK Base 2013 Multiplayer/bin
+/Steam/Games/steamapps/dosfreak/age of chivalry/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/dosfreak/age of chivalry/bin
+/Steam/Games/steamapps/dosfreak/diprip warm up/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/dosfreak/diprip warm up/bin
+/Steam/Games/steamapps/dosfreak/pirates, vikings, and knights ii/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/dosfreak/pirates, vikings, and knights ii/bin
+/Steam/Games/steamapps/dosfreak/smashball/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/dosfreak/smashball/bin
+/Steam/Games/steamapps/dosfreak/source sdk base 2007/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/Games/steamapps/dosfreak/source sdk base 2007/bin
+/Steam/MacOS/Games/steamapps/common/Half-Life 2 Update/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/MacOS/Games/steamapps/common/Half-Life 2 Update/bin
+/Steam/MacOS/Games/steamapps/common/KillingFloor/System/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : Steam/MacOS/Games/steamapps/common/KillingFloor/System
+/Steam/MacOS/Games/steamapps/common/Left 4 Dead 2/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99r
+Directory                       : Steam/MacOS/Games/steamapps/common/Left 4 Dead 2/bin
+/Steam/MacOS/Games/steamapps/common/Max Payne 3/Max Payne 3.app/Contents/Resources/transgaming/c_drive/Program Files/Max Payne 3/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99m
+Directory                       : Steam/MacOS/Games/steamapps/common/Max Payne 3/Max Payne 3.app/Contents/Resources/transgaming/c_drive/Program Files/Max Payne 3
+/Steam/MacOS/Games/steamapps/common/Source SDK Base 2007/bin/binkw32.dll
+File Version Number             : 1.8.22.0
+Product Version                 : 1.8w
+Directory                       : Steam/MacOS/Games/steamapps/common/Source SDK Base 2007/bin
+/Twitch/Games/Games Library/8bf7e683-9157-46e4-9744-2a8729841a12/binkw32.dll
+File Version Number             : 1.9.1.0
+Product Version                 : 1.9a
+Directory                       : Twitch/Games/Games Library/8bf7e683-9157-46e4-9744-2a8729841a12
+/Twitch/Games/Games Library/9fa97b6c-03a4-48de-b05a-77bb123b7690/binkw32.dll
+File Version Number             : 1.9.1.0
+Product Version                 : 1.9a
+Directory                       : Twitch/Games/Games Library/9fa97b6c-03a4-48de-b05a-77bb123b7690
+/Twitch/Games/Games Library/amzn1.adg.product.715c7943-57b4-4fa1-9315-ad9631321d98/binkw32.dll
+File Version Number             : 1.9.1.0
+Product Version                 : 1.9a
+Directory                       : Twitch/Games/Games Library/amzn1.adg.product.715c7943-57b4-4fa1-9315-ad9631321d98
+/Twitch/Games/Games Library/amzn1.adg.product.9309e573-f790-4f1a-a285-d821cb7cf583/binkw32.dll
+File Version Number             : 1.9.1.0
+Product Version                 : 1.9a
+Directory                       : Twitch/Games/Games Library/amzn1.adg.product.9309e573-f790-4f1a-a285-d821cb7cf583
+/Twitch/Games/Games Library/eb46c3ec-c6f2-4173-870d-3eeaaaf5ae9c/binkw32.dll
+File Version Number             : 1.8.0.0
+Product Version                 : 1.8b
+Directory                       : Twitch/Games/Games Library/eb46c3ec-c6f2-4173-870d-3eeaaaf5ae9c
+/Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed Chronicles China/Binaries/Win32/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99n
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed Chronicles China/Binaries/Win32
+/Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed II/binkw32.dll
+File Version Number             : 1.9.14.0
+Product Version                 : 1.9n
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed II
+/Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed III/binkw32.dll
+File Version Number             : 1.8.8.0
+Product Version                 : 1.8i
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed III
+/Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed Revelations/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99d
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Assassin's Creed Revelations
+/Ubisoft/Games/Ubisoft Game Launcher/games/Beyond Good and Evil/binkw32.dll
+File Version Number             : 1.5.21.0
+Product Version                 : 1.5v
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Beyond Good and Evil
+/Ubisoft/Games/Ubisoft Game Launcher/games/Child of Light/binkw32.dll
+File Version Number             : 1.9.25.0
+Product Version                 : 1.9z
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Child of Light
+/Ubisoft/Games/Ubisoft Game Launcher/games/Far Cry 3 Blood Dragon/bin/binkw32.dll
+File Version Number             : 1.9.99.0
+Product Version                 : 1.99L
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Far Cry 3 Blood Dragon/bin
+/Ubisoft/Games/Ubisoft Game Launcher/games/Rayman Legends/binkw32.dll
+File Version Number             : 1.9.25.0
+Product Version                 : 1.9z
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Rayman Legends
+/Ubisoft/Games/Ubisoft Game Launcher/games/Rayman Origins/binkw32.dll
+File Version Number             : 1.9.25.0
+Product Version                 : 1.9z
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Rayman Origins
+/Ubisoft/Games/Ubisoft Game Launcher/games/Tom Clancy's Splinter Cell/system/binkw32.dll
+File Version Number             : 1.5.7.0
+Product Version                 : 1.5g
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/Tom Clancy's Splinter Cell/system
+/Ubisoft/Games/Ubisoft Game Launcher/games/World in Conflict/binkw32.dll
+File Version Number             : 1.8.9.0
+Product Version                 : 1.8k
+Directory                       : Ubisoft/Games/Ubisoft Game Launcher/games/World in Conflict
