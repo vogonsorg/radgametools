@@ -1,7 +1,11 @@
 # radgametools
-Bink, Smacker, miles, etc binaries. No Source Code
+Bink, Smacker, Miles, etc binaries. 
 
-USE EXIFTOOL TO GATHER VERSION INFORMATION
+There is no Source Code in this repo.
+
+RETRIEVING VERSION INFORMATION
+
+Use the utility EXIFTOOL and the below command:
 
 exiftool -r -FileVersionNumber -ProductVersion -Directory -if "$Filename eq 'binkw32'" L:\ > binkw32.txt
 
