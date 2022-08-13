@@ -8,10 +8,13 @@ exiftool -r -FileVersionNumber -ProductVersion -Directory -if "$Filename eq 'bin
 DEVELOPMENT HISTORY
 
 http://www.radgametools.com/bnkhist.htm
+
 http://www.radgametools.com/smkhist.htm
+
 http://www.radgametools.com/msshist.htm
 
 GAMES
+
 http://www.radgametools.com/binkgames.htm
 
 https://web.archive.org/web/20070613100106/http://www.radgametools.com/smkgames.htm
