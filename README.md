@@ -7,7 +7,7 @@ RETRIEVING VERSION INFORMATION
 
 Use the utility EXIFTOOL and the below command:
 
-exiftool -r -FileVersionNumber -ProductVersion -Directory -if "$Filename eq 'binkw32'" L:\ > binkw32.txt
+exiftool -ext .dll -r -FileVersionNumber -ProductVersion -Directory -if "$Filename eq 'binkw32.dll'" L:\ > binkw32.txt
 
 DEVELOPMENT HISTORY
 
